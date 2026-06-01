@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderRadius: theme.radius.full,
     paddingHorizontal: theme.spacing.sm,
-    paddingVertical: 3,
+    paddingVertical: 6,
   },
   label: {
     ...theme.typography.badge,
