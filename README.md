@@ -34,6 +34,9 @@ src/
 └── theme/          # Colors and design tokens
 ```
 
+## Demo
+https://khaya-pi.vercel.app/
+
 ## Getting Started
 
 ```bash
